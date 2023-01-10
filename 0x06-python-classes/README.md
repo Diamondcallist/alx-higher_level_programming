@@ -1,6 +1,4 @@
-Project done during Full Stack Software Engineering studies at Holberton School. It aims to learn about object oriented programming (OOP), classes, objects, instances, methods and attributes in Python.
+0x06. Python - Classes and Objects
+An introductory project into python classes and objects Aimed at oriented programming (OOP), classes, objects, instances, methods and attributes in Python.
 
-Technologies
-Python Scripts are written with Python 3.4.3
-C files are compiled using gcc 4.8.4
-Tested on Ubuntu 14.04 LTS
+Documentation is now mandatory! Each module, class, and method must contain docstring as comments. Example Google Style Python Docstrings
